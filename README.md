@@ -1,1 +1,1 @@
-# junior-project-
+# junior-project-cd my-app
